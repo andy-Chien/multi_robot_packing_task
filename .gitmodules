@@ -1,0 +1,9 @@
+[submodule "multi_robot_motion_planning"]
+	path = multi_robot_motion_planning
+	url = https://github.com/andy-Chien/multi_robot_motion_planning.git
+[submodule "task_behaviors"]
+	path = task_behaviors
+	url = https://github.com/andy-Chien/task_behaviors.git
+[submodule "packing_env"]
+	path = packing_env
+	url = https://github.com/andy-Chien/packing_env.git
