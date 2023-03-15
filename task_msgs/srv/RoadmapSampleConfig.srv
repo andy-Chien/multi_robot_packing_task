@@ -1,0 +1,9 @@
+string                     planner_name
+task_msgs/FlatVoxel     start_flat
+task_msgs/RotationRange start_rotation
+task_msgs/FlatVoxel     target_flat
+task_msgs/RotationRange target_rotation
+
+---
+
+bool received

@@ -1,0 +1,12 @@
+#goal definition
+string  planner_name
+int32   repeat_times
+---
+#result definition
+float32 success_rate
+float32 planning_time
+float32 trajectory_length
+---
+#feedback
+int32 finished
+int32 total

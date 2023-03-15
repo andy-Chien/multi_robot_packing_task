@@ -1,0 +1,5 @@
+geometry_msgs/Pose start
+geometry_msgs/Pose target
+---
+bool success
+trajectory_msgs/JointTrajectoryPoint[] traj_points

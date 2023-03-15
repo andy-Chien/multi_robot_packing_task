@@ -1,0 +1,3 @@
+config/*.yaml
+urdf/*.urdf
+mesh/*.obj
