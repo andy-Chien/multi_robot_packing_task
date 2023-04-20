@@ -7,6 +7,3 @@
 [submodule "packing_env"]
 	path = packing_env
 	url = https://github.com/andy-Chien/packing_env.git
-[submodule "hand_eye_calibration"]
-	path = hand_eye_calibration
-	url = https://github.com/andy-Chien/hand_eye_calibration.git
