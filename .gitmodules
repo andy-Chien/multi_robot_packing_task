@@ -7,3 +7,6 @@
 [submodule "packing_env"]
 	path = packing_env
 	url = https://github.com/andy-Chien/packing_env.git
+[submodule "hand-eye-calibration_ROS2"]
+	path = hand-eye-calibration_ROS2
+	url = https://github.com/tku-iarc/hand-eye-calibration_ROS2
