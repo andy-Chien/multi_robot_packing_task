@@ -10,3 +10,9 @@
 [submodule "hand-eye-calibration_ROS2"]
 	path = hand-eye-calibration_ROS2
 	url = https://github.com/tku-iarc/hand-eye-calibration_ROS2
+[submodule "ros2_aruco"]
+	path = ros2_aruco
+	url = https://github.com/andy-Chien/ros2_aruco.git
+[submodule "gqcnn"]
+	path = gqcnn
+	url = https://github.com/andy-Chien/gqcnn.git
