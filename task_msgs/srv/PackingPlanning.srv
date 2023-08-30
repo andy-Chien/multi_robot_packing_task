@@ -1,0 +1,12 @@
+# box_cloud, obj_cloud, box_size, camera_ext, reset
+
+sensor_msgs/PointCloud2 box_cloud
+sensor_msgs/PointCloud2 obj_cloud
+float32[] box_size
+bool is_first_obj
+
+---
+
+bool success
+geometry_msgs/Twist relative_place_pose  # in box coordinatey
+

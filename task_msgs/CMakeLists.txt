@@ -26,6 +26,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "srv/GQCNNGraspPlannerSegmask.srv"
   "srv/RoadmapSampleConfig.srv"
   "srv/GetPlannedTraj.srv"
+  "srv/PackingPlanning.srv"
   "action/RoadmapSampler.action"
 DEPENDENCIES
   std_msgs
