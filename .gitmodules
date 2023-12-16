@@ -16,3 +16,6 @@
 [submodule "gqcnn"]
 	path = gqcnn
 	url = https://github.com/andy-Chien/gqcnn.git
+[submodule "mobile_manipulator"]
+	path = mobile_manipulator
+	url = https://github.com/andy-Chien/mobile_manipulator.git
